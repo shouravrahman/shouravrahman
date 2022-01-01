@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/shouravrahman/shouravrahman/blob/main/SHOURAV RAHMAN.gif?raw=true)
+![alt text](https://github.com/shouravrahman/shouravrahman/blob/a907642ae2e857d2c88a7da7bb393aac9e97bd6a/SHOURAV%20RAHMAN.gif)
