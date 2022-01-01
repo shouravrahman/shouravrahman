@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/shouravrahman/SHOURAV RAHMAN.gif"Header")]
+![alt text](https://github.com/shouravrahman/shouravrahman/blob/main/SHOURAV RAHMAN.gif?raw=true)
