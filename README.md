@@ -18,29 +18,29 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/shouravrahman/shouravrahman/blob/a907642ae2e857d2c88a7da7bb393aac9e97bd6a/SHOURAV%20RAHMAN.gif)
 
 # Well Hello There 👋
-## 🙋I am Shourav.A MERN Stack developer,Javascript lover from Bangladesh
-
+## I am Shourav.Full Stack developer, ReactJS and NextJS expert from Bangladesh. ![]( https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=f5f5f5)
 - 🔭 I’m currently working on ... MERN Apps
 - 🌱 I’m currently learning ... Typescript
 
 
 ## ⚙Technologies and Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=red&color=red)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=bash&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux&logoColor=red&color=red)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-Express-informational?style=for-the-badge&logo=express&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=for-the-badge&logo=tailwindcss&logoColor=red&color=red)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-AntDesign-informational?style=for-the-badge&logo=antdesign&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-MUI-informational?style=for-the-badge&logo=materialdesign&logoColor=red&color=red)
-![](https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=red&color=red)
-![](https://img.shields.io/badge/Tool-Insomnia-informational?style=for-the-badge&logo=insomnia&logoColor=red&color=red)
-![](https://img.shields.io/badge/Tool-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=red&color=red)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=bash&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-Nextjs-informational?style=for-the-badge&logo=nextdotjs&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-Express-informational?style=for-the-badge&logo=express&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=for-the-badge&logo=tailwindcss&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-AntDesign-informational?style=for-the-badge&logo=antdesign&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Code-MUI-informational?style=for-the-badge&logo=materialdesign&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Tool-Insomnia-informational?style=for-the-badge&logo=insomnia&logoColor=yellow&color=white)
+![](https://img.shields.io/badge/Tool-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=yellow&color=white)
 ## 📈Github Stats
 <a href="https://github.com/shouravrahman/shouravrahman">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouravrahman&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
