@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/shouravrahman/shouravrahman/blob/a907642ae2e857d2c88a7da7bb393aac9e97bd6a/SHOURAV%20RAHMAN.gif)
 
 # Well Hello There 👋
-## I am Shourav.Full Stack developer, ReactJS and NextJS expert from Bangladesh. ![]( https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=f5f5f5)
+## I am Shourav.Full Stack developer, ReactJS, NextJS . ![]( https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=f5f5f5)
 - 🔭 I’m currently working on ... MERN Apps
 - 🌱 I’m currently learning ... Typescript
 
