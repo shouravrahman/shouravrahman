@@ -15,7 +15,7 @@
 I’m a passionate Full Stack Developer with a knack for turning caffeine into code. When I'm not busy building web apps using **React**, **Next.js**, and **TypeScript**, I'm probably debugging something or refreshing Stack Overflow like it's a social media feed. 
 
 ### 👀 Fun Fact:
-I once spent 6 hours trying to center a div... and I'm not ashamed of it.
+I once tried to fix a tiny bug and ended up discovering three new ones. Turns out, debugging is just bug collection in reverse!
 
 ---
 
@@ -35,9 +35,9 @@ I once spent 6 hours trying to center a div... and I'm not ashamed of it.
 ---
 
 ### 💬 Ask Me About:
-- **Next.js**, **TypeScript**, **React**: My daily bread and butter
+- **Next.js**, **JavaScript**, **React**: My daily bread and butter
 - **MERN Stack**: MongoDB, Express.js, React.js, Node.js
-- How to refactor code to be more *beautiful* and *elegant* (yes, code can be elegant!)
+- How to refactor code to be more *beautiful* and *elegant*
 
 ---
 
