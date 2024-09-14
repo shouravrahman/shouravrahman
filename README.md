@@ -3,11 +3,11 @@
 # Well Hello There 👋
 ## I'm Shourav, a Full-Stack Developer specializing in React.js, Next.js, and MERN stack magic! 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shouravrahman) 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?logo=googlechrome&logoColor=white&style=for-the-badge)](https://shourav.com)
-[![Gmail Badge](https://img.shields.io/badge/-shouravrahman@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shouravrahman@gmail.com)
-![Followers Badge](https://img.shields.io/github/followers/shouravrahman?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=shouravrahman&style=for-the-badge)
+### 🌐 Connect with Me:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouravrahman) 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://shourav.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouravrahman@gmail.com)
+
 
 ---
 
@@ -43,34 +43,39 @@ I once tried to fix a tiny bug and ended up discovering three new ones. Turns ou
 
 ### ⚡ Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### ⚙ Technologies & Tools:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/Editor-VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ---
 
+
 ### 📈 GitHub Stats:
-<a href="https://github.com/shouravrahman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouravrahman&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>           
-<a href="https://github.com/shouravrahman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shouravrahman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shourav's GitHub Stats" />
-</a>
+<div>
+  <a href="https://github.com/shouravrahman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouravrahman&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" style="border-radius: 8px; margin-right: 20px;"/>
+  </a>
+  <a href="https://github.com/shouravrahman">
+    <img src="https://github-readme-stats.vercel.app/api?username=shouravrahman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shourav's GitHub Stats" style="border-radius: 8px;"/>
+  </a>
+</div>
+
+
 
 ---
 <!-- Add any additional custom sections below -->
