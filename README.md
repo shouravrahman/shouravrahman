@@ -1,7 +1,7 @@
-![Shourav's Banner](https://github.com/shouravrahman/shouravrahman/blob/a907642ae2e857d2c88a7da7bb393aac9e97bd6a/SHOURAV%20RAHMAN.gif)
 
-# Well Hello There 👋
-## I'm Shourav, a Full-Stack Developer specializing in React.js, Next.js, and MERN stack magic! 
+
+#  Hello There 👋
+## I'm Shourav, a FullStack Developer specializing in React.js, Next.js, and MERN stack magic! 
 
 ### 🌐 Connect with Me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouravrahman) 
@@ -64,16 +64,6 @@ I once tried to fix a tiny bug and ended up discovering three new ones. Turns ou
 
 ---
 
-
-### 📈 GitHub Stats:
-<div>
-  <a href="https://github.com/shouravrahman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouravrahman&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" style="border-radius: 8px; margin-right: 20px;"/>
-  </a>
-  <a href="https://github.com/shouravrahman">
-    <img src="https://github-readme-stats.vercel.app/api?username=shouravrahman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shourav's GitHub Stats" style="border-radius: 8px;"/>
-  </a>
-</div>
 
 
 
