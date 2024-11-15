@@ -5,8 +5,8 @@
 
 ### 🌐 Connect with Me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouravrahman) 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://shourav.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouravrahman@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://shouravrahman.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouravatwork@gmail.com)
 
 
 ---
