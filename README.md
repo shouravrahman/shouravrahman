@@ -20,7 +20,7 @@ I have a EEE degree and I worked freelance thoose years at small scale. Now I wa
 
 ### 🔭 Currently Working On:
 - 🚀 Next.js apps (because why not)
-- 💻 Full-Stack SaaS platforms using the **MERN** stack
+- 💻 Full-Stack SaaS platforms 
 - 🔥 Crafting component libraries with **React**, **Tailwind CSS**, and some good ol' **TypeScript**
 - 🧠 Diving deeper into **TypeScript** (and wondering why I didn't start using it sooner)
 
@@ -29,14 +29,7 @@ I have a EEE degree and I worked freelance thoose years at small scale. Now I wa
 ### 🌱 Currently Learning:
 - 🧪 Testing with **Jest** and **Cypress** (because bugs are not features, right?)
 - 🏗️ Advanced **Node.js** with **TypeScript** for scaling backends
-- 📚 Improving my knowledge of **GraphQL** (because REST is cool, but GraphQL is futuristic)
 
----
-
-### 💬 Ask Me About:
-- **Next.js**, **JavaScript**, **React**: My daily bread and butter
-- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
-- How to refactor code to be more *beautiful* and *elegant*
 
 ---
 
