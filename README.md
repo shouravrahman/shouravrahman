@@ -1,7 +1,7 @@
 
 
 #  Hello There 👋
-## I'm Shourav, a FullStack Developer specializing in React.js, Next.js, and MERN stack magic! 
+## I'm Shourav, a FullStack Developer primarily working with React.js, Next.js and Typescript! 
 
 ### 🌐 Connect with Me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouravrahman) 
