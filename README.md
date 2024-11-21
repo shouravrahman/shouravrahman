@@ -12,10 +12,9 @@
 ---
 
 ### 🧑‍💻 About Me:
-I’m a passionate Full Stack Developer with a knack for turning caffeine into code. When I'm not busy building web apps using **React**, **Next.js**, and **TypeScript**, I'm probably debugging something or refreshing Stack Overflow like it's a social media feed. 
-
-### 👀 Fun Fact:
-I once tried to fix a tiny bug and ended up discovering three new ones. Turns out, debugging is just bug collection in reverse!
+I’m a  Full Stack Developer from Sylhet,Bangladesh. I do freelance web development  building web apps using **React**, **Next.js**, and **TypeScript**. I particularly focus on AI and Sofware as a Service apps.
+Trying to build,test and iterate fast. I try to focus on what I need to get the job done without issues rather than bullshitting on frameworks.
+I have a EEE degree and I worked freelance thoose years at small scale. Now I want to launch my own agency and saas business where I help people develop mvps fast and scale from there.
 
 ---
 
